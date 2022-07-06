@@ -9,4 +9,4 @@
 
 ## Table of Contents
 ## 1: **Basic <br>**
-scirpt : [First_week.ipynb](https://github.com/SEUNGYEOPOH/Programming_Data-analysis/blob/main/first_week.ipynb)<br>
+scirpt : []()<br>
